@@ -89,7 +89,7 @@ My work spans **genomics, transcriptomics, infectious disease modeling, healthca
 |---------|--------------|
 | **Bioinformatics** | Seurat • DESeq2 • GATK • STAR • Cell Ranger • IGV |
 | **Workflow Management** | Nextflow • Snakemake • Docker • Git|
-| **Machine Learning** | Scikit-learn • Statistical Modeling |
+| **Machine Learning** | Scikit-learn • SVM • Statistical Modeling |
 | **Visualization** | Tableau • ggplot2 • Plotly • Matplotlib • R shiny|
 | **Databases** | ClinVar • gnomAD • TCGA |
 

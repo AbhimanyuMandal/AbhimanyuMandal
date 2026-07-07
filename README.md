@@ -143,7 +143,7 @@ Developed and evaluated machine learning models to predict neurotoxicity risk fr
 
 Developed an end-to-end healthcare analytics platform for insurance claims analysis, fraud detection, settlement efficiency, and provider performance evaluation.
 
-🔗 [![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/AbhimanyuMandal/health-insurance-claims-analysis-r)
+🔗 [![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/AbhimanyuMandal/healthcare-claims-analytics)
 
 📈 [![Dashboard](https://img.shields.io/badge/View-Dashboard-E97627?style=flat-square&logo=tableau)](https://public.tableau.com/app/profile/abhimanyu.mandal/viz/HealthcareClaimsAnalyticsStory/HealthcareClaimsAnalyticsStory)
 

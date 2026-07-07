@@ -13,6 +13,10 @@ Building reproducible computational methods for genomics, precision medicine, an
 </p>
 
 <p align="center">
+Passionate about translating complex biomedical data into clinically meaningful insights using bioinformatics, machine learning, and statistical modeling.
+</p>
+
+<p align="center">
 
 <a href="https://abhimanyumandal.github.io/Personal-Portfolio/#">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-2563EB?style=for-the-badge"/>

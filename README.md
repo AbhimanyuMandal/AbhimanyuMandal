@@ -87,7 +87,7 @@ My work spans **genomics, transcriptomics, infectious disease modeling, healthca
 | **Workflow Management** | Nextflow • Snakemake • Docker • Git|
 | **Machine Learning** | Scikit-learn • Statistical Modeling |
 | **Visualization** | Tableau • ggplot2 • Plotly • Matplotlib • R shiny|
-| **Databases** | ClinVar • gnomAD • TCGA • GTEx |
+| **Databases** | ClinVar • gnomAD • TCGA |
 
 ---
 
@@ -99,7 +99,7 @@ My work spans **genomics, transcriptomics, infectious disease modeling, healthca
 
 Developed a reproducible germline variant analysis pipeline for processing next-generation sequencing data, including variant calling, annotation, filtering, and interpretation using clinically relevant genomic databases.
 
-🔗 Repository: [![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/AbhimanyuMandal/Germline-mutation)
+🔗 [![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/AbhimanyuMandal/Germline-mutation)
 
 ---
 
@@ -109,7 +109,7 @@ Developed a reproducible germline variant analysis pipeline for processing next-
 
 Performed single-cell RNA sequencing analysis to characterize tumor heterogeneity, identify marker genes, and investigate the tumor microenvironment. Developed computational workflows integrating transcriptomics and pathway analysis to prioritize therapeutic candidates for breast cancer.
 
-🔗 Repository: [GitHub](https://github.com/AbhimanyuMandal/HuLab)
+🔗 [![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/AbhimanyuMandal/HuLab)
 
 ---
 
@@ -119,7 +119,7 @@ Performed single-cell RNA sequencing analysis to characterize tumor heterogeneit
 
 Developed Bayesian disease mapping models to identify tuberculosis hotspots and quantify spatial risk patterns for public health decision-making.
 
-🔗 Repository: [GitHub](https://github.com/AbhimanyuMandal/NDMC)
+🔗[![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/AbhimanyuMandal/NDMC)
 
 ---
 
@@ -129,7 +129,7 @@ Developed Bayesian disease mapping models to identify tuberculosis hotspots and 
 
 Developed and evaluated machine learning models to predict neurotoxicity risk from biomedical data. Optimized feature engineering and model performance, achieving **83% classification accuracy** using a Support Vector Machine (SVM), demonstrating the application of AI to predictive toxicology.
 
-🔗 Repository: [GitHub](https://github.com/AbhimanyuMandal/Exploratory_IIT-BHU)
+🔗[![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/AbhimanyuMandal/Exploratory_IIT-BHU)
 
 ---
 
@@ -139,8 +139,8 @@ Developed and evaluated machine learning models to predict neurotoxicity risk fr
 
 Developed an end-to-end healthcare analytics platform for insurance claims analysis, fraud detection, settlement efficiency, and provider performance evaluation.
 
-🔗 Repository: [GitHub](https://github.com/AbhimanyuMandal/health-insurance-claims-analysis-r)
-📈 Live demo: [Dashboard](https://public.tableau.com/app/profile/abhimanyu.mandal/vizzes)
+🔗 [![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/AbhimanyuMandal/health-insurance-claims-analysis-r)
+📈 [![Dashboard](https://img.shields.io/badge/View-Dashboard-E97627?style=flat-square&logo=tableau)](https://public.tableau.com/app/profile/abhimanyu.mandal/vizzes)
 
 ---
 

@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Abhimanyu Mandal 👋</h1>
 
 <h3 align="center">
-Computational Biologist • Bioinformatician • Data Scientist
+Computational Biologist • Bioinformatics Researcher • Healthcare Data Scientist
 </h3>
 
 <p align="center">
@@ -93,34 +93,13 @@ My work spans **genomics, transcriptomics, infectious disease modeling, healthca
 
 # ⭐ Featured Projects
 
-## 🏥 Healthcare Claims Analytics
-
-**R • SQL • Tableau**
-
-Developed an end-to-end healthcare analytics platform for insurance claims analysis, fraud detection, settlement efficiency, and provider performance evaluation.
-
-🔗 Repository: [GitHub](https://github.com/AbhimanyuMandal/health-insurance-claims-analysis-r)
-📈 Live demo: [Dashboard](https://public.tableau.com/app/profile/abhimanyu.mandal/vizzes)
-
----
-
-## 🦠 Tuberculosis Spatial Risk Modeling
-
-**R • Bayesian Statistics • Spatial Epidemiology**
-
-Developed Bayesian disease mapping models to identify tuberculosis hotspots and quantify spatial risk patterns for public health decision-making.
-
-🔗 Repository: [GitHub](https://github.com/AbhimanyuMandal/NDMC)
-
----
-
 ## 🧬 Germline Variant Analysis Pipeline
 
 **Python • GATK • Variant Annotation • Clinical Genomics**
 
 Developed a reproducible germline variant analysis pipeline for processing next-generation sequencing data, including variant calling, annotation, filtering, and interpretation using clinically relevant genomic databases.
 
-🔗 Repository: [GitHub](https://github.com/AbhimanyuMandal/Germline-mutation)
+🔗 Repository: [![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/AbhimanyuMandal/Germline-mutation)
 
 ---
 
@@ -134,6 +113,16 @@ Performed single-cell RNA sequencing analysis to characterize tumor heterogeneit
 
 ---
 
+## 🦠 Tuberculosis Spatial Risk Modeling
+
+**R • Bayesian Statistics • Spatial Epidemiology**
+
+Developed Bayesian disease mapping models to identify tuberculosis hotspots and quantify spatial risk patterns for public health decision-making.
+
+🔗 Repository: [GitHub](https://github.com/AbhimanyuMandal/NDMC)
+
+---
+
 ## 🧠 Neurotoxicity Prediction using Machine Learning
 
 **Python • Scikit-learn • Support Vector Machine (SVM) • Feature Engineering**
@@ -144,27 +133,32 @@ Developed and evaluated machine learning models to predict neurotoxicity risk fr
 
 ---
 
-# 💼 Research Experience
+## 🏥 Healthcare Claims Analytics
 
-### 🔬 Project Research Assistant
+**R • SQL • Tableau**
 
-**Indian Institute of Technology Bombay**
+Developed an end-to-end healthcare analytics platform for insurance claims analysis, fraud detection, settlement efficiency, and provider performance evaluation.
 
-- Bayesian spatial disease modeling
-- Tuberculosis epidemiology
-- Public health analytics
-- Statistical modeling
-- Geospatial data analysis
+🔗 Repository: [GitHub](https://github.com/AbhimanyuMandal/health-insurance-claims-analysis-r)
+📈 Live demo: [Dashboard](https://public.tableau.com/app/profile/abhimanyu.mandal/vizzes)
 
 ---
 
-### 🇨🇦 Mitacs Globalink Research Intern
+# 💼 Research Experience
 
-**Western University, Canada**
+### 🔬 Project Research Assistant | IIT Bombay
 
-- Breast cancer genomics
-- Drug repurposing
-- Single-cell RNA sequencing
+- Developed Bayesian spatial disease mapping models to identify tuberculosis hotspots.
+- Integrated epidemiological, demographic, and geospatial datasets for public health analysis.
+- Applied statistical modeling to support evidence-based disease surveillance.
+
+---
+
+### 🇨🇦 Mitacs Globalink Research Intern | Western University
+
+- Developed computational workflows for breast cancer drug repurposing.
+- Analyzed single-cell RNA sequencing datasets using Seurat.
+- Performed transcriptomic and pathway analyses to identify therapeutic targets.
 
 ---
 

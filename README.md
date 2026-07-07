@@ -77,16 +77,16 @@ My work spans **genomics, transcriptomics, infectious disease modeling, healthca
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,r,linux,bash,git,docker,sqlite,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,r,linux,bash,sqlite"/>
 
 </p>
 
 | Domain | Technologies |
 |---------|--------------|
 | **Bioinformatics** | Seurat • DESeq2 • GATK • STAR • Cell Ranger • IGV |
-| **Workflow Management** | Nextflow • Snakemake • Docker |
-| **Machine Learning** | Scikit-learn • XGBoost • Statistical Modeling |
-| **Visualization** | Tableau • ggplot2 • Plotly • Matplotlib |
+| **Workflow Management** | Nextflow • Snakemake • Docker • Git|
+| **Machine Learning** | Scikit-learn • Statistical Modeling |
+| **Visualization** | Tableau • ggplot2 • Plotly • Matplotlib • R shiny|
 | **Databases** | ClinVar • gnomAD • TCGA • GTEx |
 
 ---
@@ -99,8 +99,8 @@ My work spans **genomics, transcriptomics, infectious disease modeling, healthca
 
 Developed an end-to-end healthcare analytics platform for insurance claims analysis, fraud detection, settlement efficiency, and provider performance evaluation.
 
-🔗 Repository: *(Add Link)*
-
+🔗 Repository: [GitHub](https://github.com/AbhimanyuMandal/health-insurance-claims-analysis-r)
+📈 Live demo: [Dashboard](https://public.tableau.com/app/profile/abhimanyu.mandal/vizzes)
 ---
 
 ## 🦠 Tuberculosis Spatial Risk Modeling
@@ -109,7 +109,17 @@ Developed an end-to-end healthcare analytics platform for insurance claims analy
 
 Developed Bayesian disease mapping models to identify tuberculosis hotspots and quantify spatial risk patterns for public health decision-making.
 
-🔗 Repository: *(Add Link)*
+🔗 Repository: [GitHub](https://github.com/AbhimanyuMandal/NDMC)
+
+---
+
+## 🧬 Germline Variant Analysis Pipeline
+
+**Python • GATK • Variant Annotation • Clinical Genomics**
+
+Developed a reproducible germline variant analysis pipeline for processing next-generation sequencing data, including variant calling, annotation, filtering, and interpretation using clinically relevant genomic databases.
+
+🔗 Repository: [GitHub](https://github.com/AbhimanyuMandal/Germline-mutation)
 
 ---
 
@@ -117,19 +127,19 @@ Developed Bayesian disease mapping models to identify tuberculosis hotspots and 
 
 **R • Seurat • Single-cell Transcriptomics**
 
-Performed single-cell RNA sequencing analysis to characterize tumor heterogeneity, identify marker genes, and investigate the tumor microenvironment.
+Performed single-cell RNA sequencing analysis to characterize tumor heterogeneity, identify marker genes, and investigate the tumor microenvironment. Developed computational workflows integrating transcriptomics and pathway analysis to prioritize therapeutic candidates for breast cancer.
 
-🔗 Repository: *(Add Link)*
+🔗 Repository: [GitHub](https://github.com/AbhimanyuMandal/HuLab)
 
 ---
 
-## 💊 Drug Repurposing Pipeline
+## 🧠 Neurotoxicity Prediction using Machine Learning
 
-**Python • Transcriptomics • Network Biology**
+**Python • Scikit-learn • Support Vector Machine (SVM) • Feature Engineering**
 
-Developed computational workflows integrating transcriptomics and pathway analysis to prioritize therapeutic candidates for breast cancer.
+Developed and evaluated machine learning models to predict neurotoxicity risk from biomedical data. Optimized feature engineering and model performance, achieving **83% classification accuracy** using a Support Vector Machine (SVM), demonstrating the application of AI to predictive toxicology.
 
-🔗 Repository: *(Add Link)*
+🔗 Repository: [GitHub](https://github.com/AbhimanyuMandal/Exploratory_IIT-BHU)
 
 ---
 
@@ -154,7 +164,6 @@ Developed computational workflows integrating transcriptomics and pathway analys
 - Breast cancer genomics
 - Drug repurposing
 - Single-cell RNA sequencing
-- Computational biology
 
 ---
 

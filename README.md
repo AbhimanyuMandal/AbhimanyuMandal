@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Abhimanyu Mandal.png" alt="Abhimanyu Mandal Banner" width="100%">
+  <img src="banner.png" width="100%" alt="Abhimanyu Mandal Banner"/>
 </p>
 
 <h1 align="center">Hi, I'm Abhimanyu Mandal 👋</h1>
@@ -9,150 +9,203 @@ Computational Biologist • Bioinformatician • Data Scientist
 </h3>
 
 <p align="center">
-Transforming biomedical data into actionable insights through bioinformatics, statistics, and machine learning.
+Building reproducible computational methods for genomics, precision medicine, and healthcare analytics.
+</p>
+
+<p align="center">
+
+<a href="https://abhimanyumandal.github.io/Personal-Portfolio/#">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhimanyu-mandal/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:abhimanyumandal0810@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## About Me
+# 👨‍🔬 About Me
 
-I am a Computational Biologist with an integrated **B.Tech + M.Tech in Pharmaceutical Engineering & Technology from IIT (BHU), Varanasi**.
+I am a **Computational Biologist** with an integrated **B.Tech + M.Tech in Pharmaceutical Engineering & Technology** from **IIT (BHU), Varanasi**.
 
-My work focuses on developing reproducible computational workflows that bridge biology, medicine, and data science. I enjoy solving complex biomedical problems using statistical modeling, genomics, machine learning, and data visualization.
+I develop computational pipelines that transform complex biomedical and healthcare data into meaningful biological and clinical insights through **bioinformatics, machine learning, statistics, and data visualization**.
 
-My experience includes:
-
-* Cancer genomics
-* RNA-seq & single-cell RNA-seq analysis
-* Infectious disease analytics
-* Bayesian spatial epidemiology
-* Healthcare analytics
-* Machine learning for biomedical applications
+My work spans **genomics, transcriptomics, infectious disease modeling, healthcare analytics, and AI-driven biomedical research**, with a strong focus on reproducible and scalable computational workflows.
 
 ---
 
-## Research Interests
+# 🚀 Quick Facts
 
-* Computational Biology
-* Bioinformatics
-* Cancer Genomics
-* Precision Medicine
-* Infectious Disease Modeling
-* RNA-seq
-* Single-cell Transcriptomics
-* Clinical Genomics
-* Biomedical Machine Learning
-* AI for Healthcare
+🎓 Integrated B.Tech + M.Tech — IIT (BHU), Varanasi
+
+🔬 Former Project Research Assistant — IIT Bombay
+
+🇨🇦 Former Mitacs Globalink Research Intern — Western University, Canada
+
+🧬 Interested in Computational Biology, Cancer Genomics & Precision Medicine
+
+📍 Bangalore, India
+
+💼 Open to Full-Time Opportunities
 
 ---
 
-## Technical Expertise
+# 🔬 Research Interests
+
+- Computational Biology
+- Bioinformatics
+- Cancer Genomics
+- RNA-seq Analysis
+- Single-cell RNA Sequencing
+- Clinical Genomics
+- Precision Medicine
+- Infectious Disease Analytics
+- Machine Learning for Healthcare
+- AI in Biomedical Research
+
+---
+
+# 💻 Technical Skills
 
 ### Programming Languages
 
-Python • R • SQL • Bash
+<p>
 
-### Bioinformatics
+<img src="https://skillicons.dev/icons?i=python,r,linux,bash,git,docker,sqlite,vscode"/>
 
-RNA-seq • scRNA-seq • Differential Expression Analysis • Variant Calling • Functional Enrichment • Pathway Analysis
+</p>
 
-### Tools
-
-Linux • Git • Docker • Nextflow • Snakemake • Jupyter • RStudio
-
-### Bioinformatics Software
-
-Seurat • DESeq2 • GATK • STAR • Cell Ranger • IGV
-
-### Data Science
-
-Machine Learning • Statistical Modeling • Feature Engineering • Data Visualization
-
-### Visualization
-
-Tableau • ggplot2 • Plotly • Matplotlib
+| Domain | Technologies |
+|---------|--------------|
+| **Bioinformatics** | Seurat • DESeq2 • GATK • STAR • Cell Ranger • IGV |
+| **Workflow Management** | Nextflow • Snakemake • Docker |
+| **Machine Learning** | Scikit-learn • XGBoost • Statistical Modeling |
+| **Visualization** | Tableau • ggplot2 • Plotly • Matplotlib |
+| **Databases** | ClinVar • gnomAD • TCGA • GTEx |
 
 ---
 
-# Featured Projects
+# ⭐ Featured Projects
 
-### Healthcare Claims Analytics
+## 🏥 Healthcare Claims Analytics
 
-A complete healthcare analytics platform developed using R, SQL, and Tableau to identify claim trends, fraud patterns, settlement efficiency, and provider performance.
+**R • SQL • Tableau**
 
----
+Developed an end-to-end healthcare analytics platform for insurance claims analysis, fraud detection, settlement efficiency, and provider performance evaluation.
 
-### Tuberculosis Spatial Risk Modeling
-
-Bayesian disease mapping framework for identifying tuberculosis hotspots using epidemiological data and spatial statistical modeling.
+🔗 Repository: *(Add Link)*
 
 ---
 
-### Breast Cancer Single-cell RNA-seq Analysis
+## 🦠 Tuberculosis Spatial Risk Modeling
 
-Single-cell transcriptomic analysis to characterize tumor heterogeneity, identify marker genes, and investigate the tumor microenvironment.
+**R • Bayesian Statistics • Spatial Epidemiology**
 
----
+Developed Bayesian disease mapping models to identify tuberculosis hotspots and quantify spatial risk patterns for public health decision-making.
 
-### Drug Repurposing Pipeline
-
-Computational drug repurposing framework integrating transcriptomics and pathway analysis to prioritize therapeutic candidates.
+🔗 Repository: *(Add Link)*
 
 ---
 
-## Research Experience
+## 🎗 Breast Cancer scRNA-seq Analysis
 
-**Project Research Assistant**
+**R • Seurat • Single-cell Transcriptomics**
 
-Indian Institute of Technology Bombay
+Performed single-cell RNA sequencing analysis to characterize tumor heterogeneity, identify marker genes, and investigate the tumor microenvironment.
 
-Worked on computational epidemiology and Bayesian spatial disease modeling to study tuberculosis notification trends and public health risk factors.
-
----
-
-**Mitacs Globalink Research Intern**
-
-Western University, Canada
-
-Developed computational pipelines for breast cancer drug repurposing using single-cell RNA sequencing.
+🔗 Repository: *(Add Link)*
 
 ---
 
-## Current Focus
+## 💊 Drug Repurposing Pipeline
 
-* Clinical Bioinformatics
-* Cancer Genomics
-* AI for Precision Medicine
-* Multi-omics Data Integration
-* Reproducible Bioinformatics Pipelines
+**Python • Transcriptomics • Network Biology**
 
----
+Developed computational workflows integrating transcriptomics and pathway analysis to prioritize therapeutic candidates for breast cancer.
 
-## Open to Opportunities
-
-I am actively seeking opportunities in:
-
-* Computational Biology
-* Bioinformatics
-* Genomics
-* Biomedical Data Science
-* Healthcare AI
+🔗 Repository: *(Add Link)*
 
 ---
 
-## Connect With Me
+# 💼 Research Experience
 
-🌐 Portfolio
-[https://abhimanyumandal.github.io/](https://abhimanyumandal.github.io/Personal-Portfolio/#)
+### 🔬 Project Research Assistant
 
-💼 LinkedIn
-https://www.linkedin.com/in/abhimanyu-mandal/
+**Indian Institute of Technology Bombay**
 
-📧 Email
-abhimanyumandal0810@gmail.com
+- Bayesian spatial disease modeling
+- Tuberculosis epidemiology
+- Public health analytics
+- Statistical modeling
+- Geospatial data analysis
+
+---
+
+### 🇨🇦 Mitacs Globalink Research Intern
+
+**Western University, Canada**
+
+- Breast cancer genomics
+- Drug repurposing
+- Single-cell RNA sequencing
+- Computational biology
+
+---
+
+# 🌱 Currently Working On
+
+- 🧬 RNA-seq Analysis Pipelines
+- 🤖 Machine Learning for Precision Medicine
+- 📊 Healthcare Data Analytics
+- 🧠 AI Applications in Computational Biology
+- 📦 Reproducible Bioinformatics Workflows
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhimanyuMandal&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhimanyuMandal&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://abhimanyumandal.github.io/Personal-Portfolio/#">
+Portfolio
+</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/abhimanyu-mandal/">
+LinkedIn
+</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="mailto:abhimanyumandal0810@gmail.com">
+Email
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-<i>"Building reproducible computational methods for genomics, precision medicine, and healthcare analytics."</i>
+
+<i>
+"Transforming biomedical data into actionable insights through reproducible computational research."
+</i>
+
 </p>

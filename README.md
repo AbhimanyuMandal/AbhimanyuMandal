@@ -101,6 +101,7 @@ Developed an end-to-end healthcare analytics platform for insurance claims analy
 
 🔗 Repository: [GitHub](https://github.com/AbhimanyuMandal/health-insurance-claims-analysis-r)
 📈 Live demo: [Dashboard](https://public.tableau.com/app/profile/abhimanyu.mandal/vizzes)
+
 ---
 
 ## 🦠 Tuberculosis Spatial Risk Modeling
@@ -174,18 +175,6 @@ Developed and evaluated machine learning models to predict neurotoxicity risk fr
 - 📊 Healthcare Data Analytics
 - 🧠 AI Applications in Computational Biology
 - 📦 Reproducible Bioinformatics Workflows
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhimanyuMandal&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhimanyuMandal&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
 
 ---
 

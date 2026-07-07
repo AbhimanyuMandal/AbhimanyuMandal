@@ -140,27 +140,19 @@ I am actively seeking opportunities in:
 
 ---
 
-## GitHub Stats
-
-(Add GitHub Readme Stats card here)
-
-(Add Top Languages card here)
-
----
-
 ## Connect With Me
 
 🌐 Portfolio
-https://abhimanyumandal.github.io/
+[https://abhimanyumandal.github.io/](https://abhimanyumandal.github.io/Personal-Portfolio/#)
 
 💼 LinkedIn
 https://www.linkedin.com/in/abhimanyu-mandal/
 
 📧 Email
-(Add your preferred email)
+abhimanyumandal0810@gmail.com
 
 ---
 
 <p align="center">
-<i>"Transforming biological data into meaningful discoveries through computation."</i>
+<i>"Building reproducible computational methods for genomics, precision medicine, and healthcare analytics."</i>
 </p>

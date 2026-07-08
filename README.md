@@ -103,7 +103,7 @@ My work spans **genomics, transcriptomics, infectious disease modeling, healthca
 
 Developed a reproducible germline variant analysis pipeline for processing next-generation sequencing data, including variant calling, annotation, filtering, and interpretation using clinically relevant genomic databases.
 
-🔗 [![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/AbhimanyuMandal/Germline-mutation)
+🔗 [![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/AbhimanyuMandal/germline-variant-analysis-pipeline/)
 
 ---
 
